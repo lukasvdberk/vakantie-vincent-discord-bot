@@ -1,8 +1,6 @@
 import discord
 import requests
-import json
-from pyyoutube import Api
-from keys import get_youtube_api_key
+from src.keys import get_youtube_api_key
 from pyyoutube import Api
 import random
 

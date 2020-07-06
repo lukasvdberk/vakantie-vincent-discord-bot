@@ -1,5 +1,5 @@
 import discord
-from send_video import send_random_video
+from src.send_video import send_random_video
 
 
 class VakantieVincentDiscordClient(discord.Client):
