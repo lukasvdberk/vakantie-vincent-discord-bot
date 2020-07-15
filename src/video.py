@@ -2,7 +2,7 @@ from json.decoder import JSONDecodeError
 
 import discord
 import requests
-from src.keys import get_youtube_api_key
+from keys import get_youtube_api_key
 from pyyoutube import Api
 import random
 import json

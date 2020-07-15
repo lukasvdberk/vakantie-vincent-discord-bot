@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
-from src.client import VakantieVincentDiscordClient
-from src.keys import get_discord_key
+from client import VakantieVincentDiscordClient
+from keys import get_discord_key
 
 # NOTE
 # before running this script create a file called .env with your DISCORD_TOKEN in it
