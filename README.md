@@ -16,3 +16,8 @@ YOUTUBE_TOKEN=""
 ```
 
 Make sure to create these application on their developer portals and fill the keys.
+
+Also make sure to make a channel in your discord server with the following name 
+```bash
+vakantie-vincent-videos
+```

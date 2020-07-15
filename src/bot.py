@@ -13,7 +13,6 @@ if __name__ == "__main__":
     print("starting bot")
     load_dotenv()
 
-    print(get_discord_key())
     client = VakantieVincentDiscordClient()
     client.run(get_discord_key())
 
