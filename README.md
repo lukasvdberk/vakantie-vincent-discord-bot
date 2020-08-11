@@ -21,3 +21,5 @@ Also make sure to make a channel in your discord server with the following name
 ```bash
 vakantie-vincent-videos
 ```
+
+If you want to get a video in your server just type !ikwilvincent
