@@ -1,5 +1,5 @@
 # Vakantie Vincent Discord Bot
-A discord bot that will send a video every day from the channel "moet jij weten productions". This person has a character callled vakantie vincent and he is very weird and funny.
+A discord bot that will send a video every day from the channel "Vacay Vince". This person has a character called vakantie vincent he is very weird and funny.
 
 ### Install
 
